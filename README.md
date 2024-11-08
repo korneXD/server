@@ -1,1 +1,5 @@
-#SERVER
+# Server
+
+Made by:
+
+- Halmosi Kornél
